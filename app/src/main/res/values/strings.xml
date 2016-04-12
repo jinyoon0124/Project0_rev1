@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project0_rev1</string>
+    <string name="btn1">Popular Movies</string>
+    <string name="btn2">Stock Hawk</string>
+    <string name="btn3">Build It Bigger</string>
+    <string name="btn4">Make Your App Material</string>
+    <string name="btn5">Go Ubiquitous</string>
+    <string name="btn6">Capstone</string>
+    <string name="msg">This button will launch %1$s apps!!</string>
+
+
+</resources>
